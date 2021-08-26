@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ruby Basico",
+    "description": "Um curso de Ruby",
+    "code": "RUBYBASIC",
+    "price": "300.0",
+    "enrollment_deadline": "2033-06-30",
+    "instructor": {
+      "name": "John Doe",
+      "email": "john_doe@codeplay.com",
+      "bio": "Dev e Instrutor"
+    }
+  },
+  {
+    "name": "Ruby on Rails",
+    "description": "Um curso de Ruby on Rails",
+    "code": "ROR",
+    "price": "300.0",
+    "enrollment_deadline": "2033-05-29",
+    "instructor": {
+      "name": "Josermilson",
+      "email": "josermilson@codeplay.com",
+      "bio": null
+    }
+  },
+  {
+    "name": "HTML",
+    "description": "Um curso de HTML",
+    "code": "HTML5",
+    "price": "100.0",
+    "enrollment_deadline": "2033-07-30",
+    "instructor": {
+      "name": "Fulano Fulano",
+      "email": "fulano@codeplay.com.br",
+      "bio": "Dev e instrutor na Code Play"
+    }
+  }
+]
